@@ -1,0 +1,12 @@
+[
+    {
+      "event": "Failed login attempts",
+      "ip": "185.220.101.4",
+      "count": 40
+    },
+    {
+      "event": "Multiple ports scanned",
+      "ip": "192.168.1.20",
+      "count": 10
+    }
+  ]
