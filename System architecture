@@ -1,0 +1,16 @@
+Security Logs
+      │
+      ▼
+Log Parser
+      │
+      ▼
+Threat Detection Engine
+      │
+      ▼
+LLM Analysis Layer
+      │
+      ▼
+AI Security Copilot
+      │
+      ▼
+Security Report + Response Recommendation
